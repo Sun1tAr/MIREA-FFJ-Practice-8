@@ -1,7 +1,5 @@
 
 
-[Postman коллекция](https://lively-flare-564043.postman.co/workspace/My-Workspace~fe2081e8-b325-4776-8b48-400d41f5b4bd/collection/42992055-dbd147c9-cdd6-4e90-ab1b-54ad26d13849?action=share&source=copy-link&creator=42992055)
-
 # Практическое занятие №8: REST API для управления заметками с MongoDB
 
 ## Выполнил: Туев Д. ЭФМО-01-25
