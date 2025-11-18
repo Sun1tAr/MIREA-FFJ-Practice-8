@@ -218,7 +218,7 @@ my/learn/mireaffjpractice8/
 
 **Конфигурация в application.properties:**
 ```properties
-spring.data.mongodb.uri=${MONGODB_URI}
+spring.data.mongodb.uri=${MONGO_URI}
 ```
 
 ## Дополнительно
